@@ -10,7 +10,7 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-Hey there this is a test to include my content to the page
+---- Hey there this is a test to include my content to the page ----
 
 # Header 1
 
